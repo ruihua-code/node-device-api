@@ -3,6 +3,7 @@
         {
             "name": "node-device-api",
             "script": "index.js",
+            "exec_mode": "fork",
             "instances": 1,
             "watch": true,
             "ignore_watch": [],
